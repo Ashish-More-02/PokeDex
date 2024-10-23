@@ -1,6 +1,6 @@
 # Project Pokedex
 
-#### This Project makes use of `pokeapi` , If you are familiar with please feel free to contribute to this project.
+#### This Project makes use of `pokeapi` , If you are familiar with Javascript please feel free to contribute to this project.
 
 ## Screenshots
 
