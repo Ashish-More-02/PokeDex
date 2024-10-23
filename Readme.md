@@ -5,15 +5,17 @@
 ## Screenshots
 
 ### 1) home page
-![Task Manager UI](./ScreenShots/p1.png)
+<!-- ![Task Manager UI](./ScreenShots/p1.png) -->
+
+<img src="./ScreenShots/p1.png" alt="screenshot" width="350" />
 
 
 ### 2) Search pokemon
-![Task Manager UI](./ScreenShots/p2.png)
+<img src="./ScreenShots/p2.png" alt="screenshot" width="350" />
 
 
 ### 3) Explore pokemon
-![Task Manager UI](./ScreenShots/p3.png)
+<img src="./ScreenShots/p3.png" alt="screenshot" width="350" />
 
 
 
